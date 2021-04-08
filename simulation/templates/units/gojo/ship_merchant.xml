@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_ship_mercgojot">
+  <Footprint>
+    <Square width="8.0" depth="22.0"/>
+    <Height>8.0</Height>
+  </Footprint>
+  <Identity>
+    <Civ>gojo</Civ>
+    <SpecificName>Shāng Chuán</SpecificName>
+    <Icon>units/gojo/ship_mercgojot.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>structures/gojo/mercgojot_ship.xml</Actor>
+  </VisualActor>
+</Entity>

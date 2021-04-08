@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_infantry_spearman">
+  <Auras datatype="tokens">
+    units/heroes/gojo_hero_gojo_xin
+  </Auras>
+  <Identity>
+    <Civ>gojo</Civ>
+    <SpecificName>Han Xin</SpecificName>
+    <Icon>units/gojo/hero_gojo_xin.png</Icon>
+  </Identity>
+  <Promotion disable=""/>
+  <VisualActor>
+    <Actor>units/gojo/hero_infantry_gojo_xin.xml</Actor>
+  </VisualActor>
+</Entity>

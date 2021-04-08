@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_ship_fishing">
+  <Footprint>
+    <Square width="5.0" depth="20.0"/>
+    <Height>8.0</Height>
+  </Footprint>
+  <Identity>
+    <Civ>gojo</Civ>
+    <SpecificName>Yú Pái</SpecificName>
+    <Icon>units/gojo/ship_fishing.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>structures/gojo/fishing_ship.xml</Actor>
+  </VisualActor>
+</Entity>

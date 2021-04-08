@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_archer">
+  <Identity>
+    <Civ>gojo</Civ>
+    <GenericName>Palace Guard Archer</GenericName>
+    <SpecificName>Hu Ben</SpecificName>
+    <SelectionGroupName>units/gojo/champion_infantry_archer</SelectionGroupName>
+    <Icon>units/gojo/infantry_archer_c.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/gojo/infantry_archer_c.xml</Actor>
+  </VisualActor>
+</Entity>

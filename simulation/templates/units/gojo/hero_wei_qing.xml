@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_infantry_crossbowman">
+  <Auras datatype="tokens">
+    units/heroes/gojo_hero_wei_qing
+  </Auras>
+  <Identity>
+    <Civ>gojo</Civ>
+    <SpecificName>Wei Qing</SpecificName>
+    <Icon>units/gojo/hero_wei_qing.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/gojo/hero_infantry_wei_qing.xml</Actor>
+  </VisualActor>
+</Entity>
