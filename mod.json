@@ -1,0 +1,8 @@
+{
+	"name": "all_civs",
+	"version": "0.0.3",
+	"label": "",
+	"description": "adds civs to 0a.d.",
+	"dependencies": ["0ad>=0.0.24"],
+	"type": ["Factions"]
+}
