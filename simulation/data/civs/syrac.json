@@ -67,21 +67,11 @@
 		"special/formations/phalanx"
 	],
 	"AINames": [
-		"Themistocles",
-		"Pericles",
-		"Cimon",
-		"Aristides",
-		"Xenophon",
-		"Hippias",
-		"Cleisthenes",
-		"Thucydides",
-		"Alcibiades",
-		"Miltiades",
-		"Cleon",
-		"Cleophon",
-		"Thrasybulus",
-		"Iphicrates",
-		"Demosthenes"
+		"Gelo",
+		"Hiero",
+		"Hiero II",
+		"Hieronymus",
+		"Agátocles"
 	],
 	"SkirmishReplacements": {
 		"skirmish/units/default_infantry_ranged_b": "units/syrac/infantry_slinger_b",
