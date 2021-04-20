@@ -4,13 +4,14 @@
     <Entities datatype="tokens">
       structures/syrac/gymnasium
       structures/syrac/prytaneion
+      structures/syrac/library
     </Entities>
   </Builder>
   <Identity>
     <Civ>syrac</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/syrac/infantry_spearman_b</SelectionGroupName>
-    <GenericName>Athenian Hoplite</GenericName>
+    <GenericName>Syracuse Hoplite</GenericName>
     <SpecificName>Hoplítēs Athēnaîos</SpecificName>
     <Icon>units/athen_infantry_spearman.png</Icon>
   </Identity>

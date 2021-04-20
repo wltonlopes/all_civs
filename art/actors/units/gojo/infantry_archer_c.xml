@@ -11,7 +11,7 @@
         <prop actor="props/units/weapons/arrow_back.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/weapons/bow/han_bow.xml" attachpoint="weapon_bow"/>
         <prop actor="props/units/quiver_back_bamboo.xml" attachpoint="back"/>
-        <prop actor="props/units/weapons/sheath/han_jian_sheath_left_a_e.xml" attachpoint="sheath_L"/>
+        <prop actor="props/units/weapons/sheath/han_standard_spearan_sheath_left_a_e.xml" attachpoint="sheath_L"/>
       </props>
     </variant>
   </group>

@@ -3,12 +3,12 @@
   <Identity>
     <Civ>syrac</Civ>
     <Lang>greek</Lang>
-    <GenericName>Athenian Marine</GenericName>
+    <GenericName>Syracuse Marine</GenericName>
     <SpecificName>Epibátēs Athēnaîos</SpecificName>
     <Icon>units/athen_champion_marine.png</Icon>
     <RequiredTechnology>iphicratean_reforms</RequiredTechnology>
   </Identity>
   <VisualActor>
-    <Actor>units/athenians/infantry_swordsman_c.xml</Actor>
+    <Actor>units/syracuses/infantry_swordsman_c.xml</Actor>
   </VisualActor>
 </Entity>

@@ -37,7 +37,7 @@
     <BatchTimeModifier>0.7</BatchTimeModifier>
     <Entities datatype="tokens">
       units/{civ}/champion_infantry
-      units/{civ}/champion_ranged
+      units/{civ}/infantry_spearman_m_b
     </Entities>
   </ProductionQueue>
   <Sound>

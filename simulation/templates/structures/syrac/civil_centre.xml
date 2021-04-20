@@ -10,8 +10,11 @@
   <ProductionQueue>
     <Entities datatype="tokens">
       units/{civ}/infantry_spearman_b
-      units/{civ}/infantry_slinger_b
       units/{civ}/cavalry_javelineer_b
+      units/{civ}/hero_gelon
+      units/{civ}/hero_dionysius_i
+      units/{civ}/hero_hiero_ii
+      units/{civ}/inventor
     </Entities>
   </ProductionQueue>
   <VisualActor>

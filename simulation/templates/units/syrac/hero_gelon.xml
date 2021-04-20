@@ -7,8 +7,8 @@
   <Identity>
     <Civ>syrac</Civ>
     <Lang>greek</Lang>
-    <GenericName>Pericles</GenericName>
-    <SpecificName>Periklēs</SpecificName>
+    <GenericName>Gelon</GenericName>
+    <SpecificName>Gelon</SpecificName>
     <Icon>units/athen_hero_pericles.png</Icon>
   </Identity>
   <VisualActor>

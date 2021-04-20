@@ -4,14 +4,15 @@
     <Entities datatype="tokens">
       structures/syrac/gymnasium
       structures/syrac/prytaneion
+      structures/syrac/library
     </Entities>
   </Builder>
   <Identity>
     <Civ>syrac</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/syrac/infantry_slinger_b</SelectionGroupName>
-    <GenericName>Athenian Slinger Militia</GenericName>
-    <SpecificName>Psilòs Athēnaîos</SpecificName>
+    <GenericName>Syracuse Slinger Militia</GenericName>
+    <SpecificName>Psilòs</SpecificName>
     <Icon>units/athen_infantry_slinger.png</Icon>
   </Identity>
   <Promotion>

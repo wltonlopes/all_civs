@@ -67,11 +67,13 @@
 		"special/formations/phalanx"
 	],
 	"AINames": [
-		"Gelo",
+		"Gelon",
 		"Hiero",
 		"Hiero II",
 		"Hieronymus",
-		"Agátocles"
+		"Agátocles",
+		"Dionysius II",
+		"Dionysius I"
 	],
 	"SkirmishReplacements": {
 		"skirmish/units/default_infantry_ranged_b": "units/syrac/infantry_slinger_b",
